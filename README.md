@@ -10,7 +10,7 @@ Using Power Platform and Azure Open AI for news or text automation
 -İmport the solution in related environment. <br />
 -Create all connections. <br />
 <img src="https://user-images.githubusercontent.com/76066298/234306477-1da18273-7405-46cc-a7ba-a73ec1f02d20.png" width="600" /> <br />
--Enter your OpenAI model name and click import <br />
+-Enter your OpenAI model name or you can pass this step . <br />-Click import <br />
 <img src="https://user-images.githubusercontent.com/76066298/234321287-b0acd6f7-a685-4398-bfb2-383f28564108.png" width="600" /> <br />
 -After importing go to solution and choose environment variables and change all environment variables for your configuration (Use current value section).<br />
 --Sharepoint folder address is your document libary name.<br />
