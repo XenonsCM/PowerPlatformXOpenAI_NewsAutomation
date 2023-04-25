@@ -4,6 +4,9 @@ Using Power Platform and Azure Open AI for news or text automation
 -Azure OpenAI Resource <br />
 -Azure Form Recognizer Resource <br />
 -Sharepoint Site for excel documents you should have 1 table which name is Table1 and Column name should be News.
+# Architecture
+<img src="https://user-images.githubusercontent.com/76066298/234335329-6133cd69-73f6-44e1-8ed2-7097523410b8.png" width="600" /> <br />
+
 
 ## Deployment Guide
 -Download the solution zip .<br />
