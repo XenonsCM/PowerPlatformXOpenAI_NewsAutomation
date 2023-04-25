@@ -22,6 +22,7 @@ Using Power Platform and Azure Open AI for news or text automation
 # Usage
 You can upload an Excel file or an image. First, choose from the toggle button whether you want to upload an Excel file or an image. Then, upload the file by clicking on the upload button and wait for the completion of the upload process. Alternatively, you can use direct analysis for texts.<br />
 <img src="https://user-images.githubusercontent.com/76066298/234329989-a3fe2727-4602-40f1-81d3-07baeaaaf29d.png" width="600" /> <br />
+You can access the data already processed from completed news table.
 
 
 
